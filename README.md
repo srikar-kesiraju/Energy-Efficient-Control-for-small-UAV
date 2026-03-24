@@ -52,7 +52,10 @@ To quantify "efficiency," we calculate the total control energy ($E$) and instan
 ---
 
 ## Results & Key Insights
-![Energy Comparision](Results/Energy_Comparision.png)
+
+![PID controller Energy Usuage](results/Energy_Usuage_PID_Controller.png)
+![SF controller Energy Usuage](results/Energy_Usuage_SF_Controller.png)
+![Energy Comparision](Results/Energy_Comparsion.png)
 
 **Key Findings:**
 * **State-Feedback** provides a significantly faster response and tighter tracking compared to PID.
