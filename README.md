@@ -61,7 +61,6 @@ To quantify "efficiency," we calculate the total control energy ($E$) and instan
 
 ---
 
-## 📂 Files
-* `Code.m`: Main MATLAB script containing the plant definition, controller gains, simulation loop, and plotting logic.
-
+##  Files
+* [Source Code](src/Code.m)
 ---
